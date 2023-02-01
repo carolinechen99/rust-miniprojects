@@ -10,7 +10,7 @@ pub fn get_definition(word: &str) -> String {
     let def = webster::dictionary(word);
     // If the def is equal to None, returns an error message.
     if def.is_none() {
-        format!("{word} is not a word.")
+        format!("{word} is not found.")
     }
     // If the def is not equal to None, returns the definition.
     else {
