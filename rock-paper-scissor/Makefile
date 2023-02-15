@@ -22,7 +22,7 @@ deploy:
 
 invoke:
 	cargo lambda invoke --remote \
-  		--data-ascii '{"choice": "1"}' \
+  		--data-ascii '{"choice": 1}' \
   		--output-format json \
   		rock-paper-scissor
 
