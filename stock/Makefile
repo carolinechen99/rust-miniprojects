@@ -6,6 +6,17 @@ rust-version:
 	rustup --version			#rust toolchain manager
 	clippy-driver --version		#rust linter
 
+
+install:
+	cargo clean &&\
+		cargo build -j 1
+
+build:
+	docker build -t stock .
+
+rundocker:
+	docker run -it --rm -p 8080:8080 stock
+
 format:
 	cargo fmt --quiet
 
@@ -16,9 +27,6 @@ test:
 	cargo test --quiet
 
 run:
-	cargo run
-
-release:
-	cargo build --release
+	cargo run 
 
 all: format lint test run
