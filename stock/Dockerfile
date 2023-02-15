@@ -1,5 +1,5 @@
 FROM rust:latest as builder
-ENV APP webdocker
+ENV APP stock
 WORKDIR /usr/src/$APP
 COPY . .
 RUN cargo install --path .
