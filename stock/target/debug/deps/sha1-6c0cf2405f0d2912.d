@@ -1,0 +1,9 @@
+/Users/carolinechen/rust-miniprojects/stock/target/debug/deps/sha1-6c0cf2405f0d2912.rmeta: /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha1-0.10.5/src/lib.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha1-0.10.5/src/compress.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha1-0.10.5/src/compress/soft.rs
+
+/Users/carolinechen/rust-miniprojects/stock/target/debug/deps/libsha1-6c0cf2405f0d2912.rlib: /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha1-0.10.5/src/lib.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha1-0.10.5/src/compress.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha1-0.10.5/src/compress/soft.rs
+
+/Users/carolinechen/rust-miniprojects/stock/target/debug/deps/sha1-6c0cf2405f0d2912.d: /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha1-0.10.5/src/lib.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha1-0.10.5/src/compress.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha1-0.10.5/src/compress/soft.rs
+
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha1-0.10.5/src/lib.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha1-0.10.5/src/compress.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha1-0.10.5/src/compress/soft.rs:
