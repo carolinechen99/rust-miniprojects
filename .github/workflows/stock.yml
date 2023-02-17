@@ -19,8 +19,8 @@ jobs:
           override: true
     - name: update linux
       run: sudo apt update 
-    - name: Set up project directory
-      run: cd stock/
+#    - name: Set up project directory
+#      run: cd stock/
     - name: update Rust
       run: make install
     - name: Check Rust versions
