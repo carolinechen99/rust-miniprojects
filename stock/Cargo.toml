@@ -12,5 +12,4 @@ tokio-test = "0.4.2"
 chrono = "0.4.23"
 actix-web = "4"
 
-[dev-dependencies]
-assert_cmd = "1"
+
