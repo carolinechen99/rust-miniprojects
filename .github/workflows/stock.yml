@@ -1,4 +1,4 @@
-name: Rust CI/CD Pipeline
+name: Stock CI/CD
 on:
   push:
     branches: [ "main" ]
@@ -19,13 +19,15 @@ jobs:
           override: true
     - name: update linux
       run: sudo apt update 
+    - name: Set up project directory
+      run: cd stock
     - name: update Rust
-      run: stock/make install
+      run: make install
     - name: Check Rust versions
-      run: stock/make rust-version
+      run: make rust-version
     - name: Format
-      run: stock/make format
+      run: make format
     - name: Lint
-      run: stock/make lint
+      run: make lint
     - name: Test
-      run: stock/make test
+      run: make test
