@@ -26,8 +26,8 @@ jobs:
     - name: Check Rust versions
       run: make rust-version
     - name: Format
-      run: make format
+      run: sudo make format
     - name: Lint
-      run: make lint
+      run: sudo make lint
     - name: Test
-      run: make test
+      run: sudo make test
