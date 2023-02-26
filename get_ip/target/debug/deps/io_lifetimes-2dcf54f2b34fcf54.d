@@ -1,0 +1,10 @@
+/Users/carolinechen/rust-miniprojects/get-ip/target/debug/deps/io_lifetimes-2dcf54f2b34fcf54.rmeta: /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/lib.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/portability.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/traits.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/example_ffi.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/raw.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/views.rs
+
+/Users/carolinechen/rust-miniprojects/get-ip/target/debug/deps/io_lifetimes-2dcf54f2b34fcf54.d: /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/lib.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/portability.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/traits.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/example_ffi.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/raw.rs /Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/views.rs
+
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/lib.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/portability.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/traits.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/example_ffi.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/raw.rs:
+/Users/carolinechen/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.5/src/views.rs:
