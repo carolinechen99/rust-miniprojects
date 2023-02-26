@@ -10,7 +10,10 @@ A good starting point for a new Rust project
 
 - stock: an actix web server that fetches stock market quotes from the Yahoo! Finance API. It allows you to fetch the latest price of a stock, as well as the price at a specific time in the past. It also includes a simple search feature that allows you to search for a stock by keyword.
 
-- nippon-hf: 
+- nippon-hf: a translation CLI that translates English to Japanese and Japanese to English. 
+
+- get_ip: A CLI that returns system's local IP address and network interfaces. Users enter a command from the command line, and the program returns the IP address and network interfaces.
+
 
 
 
