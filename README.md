@@ -16,6 +16,10 @@ A good starting point for a new Rust project
 
 - get_ip: A CLI that returns system's local IP address and network interfaces. Users enter a command from the command line, and the program returns the IP address and network interfaces.
 
+- calculator: A CLI that performs basic arithmetic operations. Users enter a command from the command line, and the program returns the result of the operation. The calculator supports four operations: addition, subtraction, multiplication, and division.
+
+- moon-phase: A CLI that gives out the moon phase of a birthday. User enters a birthday from the command line, and the program returns the moon phase of that day. It uses the [Timeline Weather API](https://www.visualcrossing.com/resources/documentation/weather-api/timeline-weather-api/) to get the moon phase of a given date.
+
 - sentiment: A CLI that returns the sentiment of a sentence. Users enter a sentence from the command line, and the program returns the sentiment analysis.
 
 - what-to-wear: A CLI that gives out a suggestion of what to wear based on randomness. Users enter a command from the command line, and the program returns a suggestion of what to wear for the day.
