@@ -24,6 +24,8 @@ A good starting point for a new Rust project
 
 - what-to-wear: A CLI that gives out a suggestion of what to wear based on randomness. Users enter a command from the command line, and the program returns a suggestion of what to wear for the day.
 
+- chat-bot: A CLI that allows you to chat with a bot. The bot will respond to your messages and you can continue the conversation as long as you want. It uses the [OpenAI API](https://beta.openai.com/docs/introduction) to generate responses.
+
 ### References
 
 - [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
